@@ -36,3 +36,8 @@ github "sudo",     "1.0.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+
+github "divvy",	   "1.0.0"
+github "propane",  "1.0.0"
+github "gitx",	   "1.1.0"
+github "viscosity","1.0.0"
