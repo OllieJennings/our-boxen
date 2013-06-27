@@ -62,6 +62,13 @@ node default {
   include propane
   include gitx::l
   include viscosity
+ # include alfred
+ # include sublime_text_2
+ # include sparrow
+  include spotify
+ # include iterm2::stable
+ # include zsh
+ # include dropbox
 
   # fail if FDE is not enabled
   if $::root_encrypted == 'no' {
